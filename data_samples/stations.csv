@@ -1,0 +1,101 @@
+station_id,station_name,region,capacity_liters,manager_name,open_date
+ST001,Johnland Fuel Point,Central,72413,Rachel Evans,7/17/2016
+ST002,Rachelchester Fuel Point,West,83536,Michele Morris,2/24/2020
+ST003,Browningburgh Fuel Point,South,59585,Cheryl Cantrell,10/8/2019
+ST004,New Josephborough Fuel Point,North,44730,Jessica Patterson,9/13/2025
+ST005,South Adamfort Fuel Point,North,36670,Andrew Cook,3/14/2021
+ST006,West Eric Fuel Point,West,35913,Shannon Scott,6/29/2023
+ST007,Mikaylafort Fuel Point,South,33464,Thomas Davila,9/12/2016
+ST008,Navarroview Fuel Point,Central,63197,Sandra Wright,3/29/2025
+ST009,Rosalesport Fuel Point,North,100523,Cynthia Smith,8/10/2023
+ST010,Kingport Fuel Point,Central,81760,Laurie Frazier,10/16/2022
+ST011,Lake Tony Fuel Point,North,46725,Jason Hood Jr.,12/28/2015
+ST012,Cookfort Fuel Point,Central,31116,Margaret Young,10/24/2024
+ST013,Wongview Fuel Point,West,93748,Jessica Alvarado,10/25/2025
+ST014,Jamesside Fuel Point,South,42335,Manuel Brown,12/20/2022
+ST015,North James Fuel Point,East,59335,Sandra Roberts,4/25/2018
+ST016,New Kellymouth Fuel Point,East,104137,David Brown,4/24/2021
+ST017,Port Zachary Fuel Point,Central,55219,Edward Ryan,9/11/2023
+ST018,Jessicachester Fuel Point,West,31962,Renee Brown,9/13/2019
+ST019,South Andrechester Fuel Point,North,93389,Heather Gonzalez,5/14/2021
+ST020,West Yolandafurt Fuel Point,South,86545,Jacob White,8/3/2024
+ST021,Jennifershire Fuel Point,West,94264,Rebecca Kim,12/24/2017
+ST022,Lyonsbury Fuel Point,North,40711,April Williams,4/17/2017
+ST023,Jesuston Fuel Point,West,84702,Thomas Gordon,8/2/2020
+ST024,East Carriemouth Fuel Point,West,96317,Ana Reeves,4/10/2021
+ST025,West Melanie Fuel Point,North,48794,Kristi Frey,6/12/2020
+ST026,Lake Amanda Fuel Point,Central,43580,Lauren Williams,1/27/2017
+ST027,Colefurt Fuel Point,East,45166,Mario Thornton,5/9/2021
+ST028,South Lawrenceburgh Fuel Point,North,54167,Mary Villarreal,8/7/2023
+ST029,Port Kathyberg Fuel Point,Central,57381,Ashley Roberts,11/8/2015
+ST030,Jefferyside Fuel Point,North,62155,Danny Diaz,6/7/2019
+ST031,Evanston Fuel Point,North,94984,Patrick Velasquez,10/28/2017
+ST032,Marymouth Fuel Point,Central,31822,Michael Lester,7/5/2016
+ST033,Williamshaven Fuel Point,Central,80867,Patricia Webster,5/24/2020
+ST034,Joannaville Fuel Point,West,75689,Jamie Bradshaw,7/18/2023
+ST035,Ericmouth Fuel Point,Central,74565,Nicholas Holland,6/10/2019
+ST036,Port Jenniferbury Fuel Point,North,52617,Christian Mitchell,7/20/2019
+ST037,New Kathy Fuel Point,North,36364,Juan Bullock,5/17/2017
+ST038,South Dustinbury Fuel Point,West,114578,Melissa Brady,6/23/2018
+ST039,Williamsland Fuel Point,West,109476,Aaron Warren,8/24/2020
+ST040,Port Kelly Fuel Point,East,98019,Mary Evans,7/22/2019
+ST041,Jessicashire Fuel Point,East,49450,Renee Smith,8/26/2021
+ST042,Tylerborough Fuel Point,West,87124,Tammy Peterson,10/18/2025
+ST043,Hendersonstad Fuel Point,East,118690,Tonya Berry,2/5/2018
+ST044,South Randy Fuel Point,North,47013,Brittany Norman,7/13/2016
+ST045,Lake Aliciaton Fuel Point,North,104305,Tracy Alexander,8/3/2025
+ST046,West Christopher Fuel Point,East,59657,Kenneth Thompson,9/1/2020
+ST047,North Patricia Fuel Point,Central,114581,Jennifer Medina,12/27/2023
+ST048,Port Chris Fuel Point,East,103725,Travis White,1/4/2019
+ST049,Lake Matthewberg Fuel Point,Central,109218,Cynthia Carter,11/23/2023
+ST050,New Robert Fuel Point,South,55432,Angel Ramirez,8/4/2019
+ST051,East Edwardmouth Fuel Point,North,94729,Darren Lawrence,10/23/2020
+ST052,North Luke Fuel Point,West,36204,Joshua Sexton,11/24/2018
+ST053,East Anita Fuel Point,East,117480,Heidi Baldwin,4/15/2019
+ST054,Lake Dustin Fuel Point,Central,79914,Christopher Oliver,6/30/2023
+ST055,West William Fuel Point,North,30546,Sandra Lloyd,8/7/2021
+ST056,New Courtney Fuel Point,North,88351,Kenneth Gomez,11/7/2016
+ST057,Teresabury Fuel Point,East,119051,Ryan Richards,10/28/2019
+ST058,Port Juliaville Fuel Point,South,47471,Todd Jones,10/22/2016
+ST059,Barryland Fuel Point,East,95206,Brittany Baker,10/22/2018
+ST060,Aaronville Fuel Point,North,86392,Amanda Bruce,1/30/2018
+ST061,Baileyborough Fuel Point,Central,49548,Amanda Stevenson,3/18/2016
+ST062,East Tina Fuel Point,Central,99951,Rebekah Miller,11/17/2020
+ST063,Gomezmouth Fuel Point,South,87252,David Donovan,2/21/2023
+ST064,North Oscar Fuel Point,West,72290,Denise Fletcher,1/26/2022
+ST065,Heatherbury Fuel Point,South,33427,Barbara Brown,6/10/2018
+ST066,Thompsonhaven Fuel Point,South,88490,Beth Ellis,1/13/2017
+ST067,Craigton Fuel Point,West,110941,Tina Hart,10/11/2019
+ST068,Ortizland Fuel Point,Central,73990,Bobby Rodriguez,11/12/2015
+ST069,Port Jeffreyside Fuel Point,North,96989,Laura Ellis,6/20/2017
+ST070,New Richard Fuel Point,West,31463,James Pierce,8/29/2024
+ST071,Fryeburgh Fuel Point,West,45968,Brenda Taylor,8/2/2018
+ST072,South Christopher Fuel Point,West,78896,Megan Wagner,1/14/2016
+ST073,Mooreport Fuel Point,East,82099,Meghan Garcia,1/26/2022
+ST074,Carlfort Fuel Point,South,40499,Matthew Kemp,1/19/2023
+ST075,Pamelaport Fuel Point,East,54522,Bryan Alvarez,10/7/2017
+ST076,Collinsbury Fuel Point,Central,82869,Jacob Valdez,6/27/2016
+ST077,Zunigabury Fuel Point,North,39817,Sara Thompson,7/19/2018
+ST078,East Jeffrey Fuel Point,North,58048,Abigail Walker,10/9/2022
+ST079,South Antoniobury Fuel Point,Central,93474,Jennifer Zimmerman,6/19/2025
+ST080,Claytonville Fuel Point,North,54155,Katherine Ferguson,7/31/2018
+ST081,Keithmouth Fuel Point,West,108817,Alison Gay,3/12/2024
+ST082,New Katie Fuel Point,South,77587,Rebecca Gutierrez,12/25/2022
+ST083,New Gregoryshire Fuel Point,North,62326,Ian Jones,1/25/2025
+ST084,New Tony Fuel Point,South,112081,Sharon Hall,9/7/2016
+ST085,Schroederhaven Fuel Point,South,110608,Amy Carter,1/29/2020
+ST086,Port Tanyaport Fuel Point,Central,114156,Anthony Evans,8/21/2017
+ST087,Deleonmouth Fuel Point,North,62091,Mindy Williams,8/26/2018
+ST088,North Matthewbury Fuel Point,East,92903,James Knight,2/10/2021
+ST089,South Kimberly Fuel Point,Central,63607,Claudia Barnett,9/28/2023
+ST090,North Nathanielmouth Fuel Point,East,119947,Sonia Lambert,9/10/2025
+ST091,Port Andrew Fuel Point,West,119323,Katherine Hatfield MD,12/3/2016
+ST092,Higginsside Fuel Point,Central,51668,Alan Levy,11/29/2023
+ST093,Williamsonview Fuel Point,North,75704,Erika Davis,4/8/2016
+ST094,Thomasshire Fuel Point,Central,85217,Eric Young,10/31/2021
+ST095,Taylorfurt Fuel Point,West,70938,Joseph Williams,11/2/2017
+ST096,Williamsstad Fuel Point,East,41083,Keith Nichols,5/29/2022
+ST097,West Michelle Fuel Point,South,37501,Sabrina Peterson,2/22/2022
+ST098,Raymondstad Fuel Point,East,105636,Jeffrey Green,12/2/2019
+ST099,Williamsmouth Fuel Point,West,86685,Joseph Weaver,7/8/2020
+ST100,New Jessicafurt Fuel Point,Central,102718,Rebecca King,11/3/2018
