@@ -1,0 +1,37 @@
+[2025-11-20 15:39:48.007458] 
+ Running step: Data Ingestion ...n[2025-11-20 15:41:33.129909]  Step 'Data Ingestion' completed succesfully. 
+n[2025-11-20 15:41:33.141922] 
+ Running step: Data Cleaning ...n[2025-11-20 15:42:14.517851]  Step 'Data Cleaning' completed succesfully. 
+n[2025-11-20 15:42:14.524851] 
+ Running step: Data Transformation ...n[2025-11-20 15:42:42.685980]  Step 'Data Transformation' completed succesfully. 
+n[2025-11-20 15:42:42.747750] 
+ Running step: Save Cleaned Data ...n[2025-11-20 15:43:11.333563]  Step 'Save Cleaned Data' completed succesfully. 
+n[2025-11-20 15:43:11.395611] 
+ Running step: Data Modeling ...n[2025-11-20 15:43:14.119576]  Step 'Data Modeling' completed succesfully. 
+n[2025-11-20 15:43:14.143901] 
+ Running step: Load to SQLite Warehouse ...n[2025-11-20 15:43:48.655764]  Step 'Load to SQLite Warehouse' completed succesfully. 
+n[2025-11-20 16:31:03.002473] 
+ Running step: Data Ingestion ...n[2025-11-20 16:31:30.625115]  Step 'Data Ingestion' completed succesfully. 
+n[2025-11-20 16:31:30.632111] 
+ Running step: Data Cleaning ...n[2025-11-20 16:32:05.769894]  Step 'Data Cleaning' completed succesfully. 
+n[2025-11-20 16:32:05.780892] 
+ Running step: Data Transformation ...n[2025-11-20 16:32:31.066860]  Step 'Data Transformation' completed succesfully. 
+n[2025-11-20 16:32:31.075858] 
+ Running step: Save Cleaned Data ...n[2025-11-20 16:32:58.598056]  Step 'Save Cleaned Data' completed succesfully. 
+n[2025-11-20 16:32:58.608060] 
+ Running step: Data Modeling ...n[2025-11-20 16:33:00.719805]  Step 'Data Modeling' completed succesfully. 
+n[2025-11-20 16:33:00.739805] 
+ Running step: Load to SQLite Warehouse ...n[2025-11-20 16:33:33.002992]  Step 'Load to SQLite Warehouse' completed succesfully. 
+n[2025-11-20 21:16:44.926936] 
+ Running step: Data Ingestion ...n[2025-11-20 21:17:23.878079]  Step 'Data Ingestion' completed succesfully. 
+n[2025-11-20 21:17:23.909335] 
+ Running step: Data Cleaning ...n[2025-11-20 21:18:10.662372]  Step 'Data Cleaning' completed succesfully. 
+n[2025-11-20 21:18:10.714429] 
+ Running step: Data Transformation ...n[2025-11-20 21:18:43.964109]  Step 'Data Transformation' completed succesfully. 
+n[2025-11-20 21:18:44.048567] 
+ Running step: Save Cleaned Data ...n[2025-11-20 21:19:21.780264]  Step 'Save Cleaned Data' completed succesfully. 
+n[2025-11-20 21:19:21.790446] 
+ Running step: Data Modeling ...n[2025-11-20 21:19:24.436850]  Step 'Data Modeling' completed succesfully. 
+n[2025-11-20 21:19:24.458987] 
+ Running step: Load to SQLite Warehouse ...n[2025-11-20 21:20:08.281786]  Step 'Load to SQLite Warehouse' completed succesfully. 
+n
