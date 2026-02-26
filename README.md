@@ -69,6 +69,6 @@ The pipeline is fully implemented:
 ✔ CSV + Parquet export
 ✔ Python pipeline runner working end-to-end
 
-This project will be further enhanced. One of the first features will be using Airflow instead of sole python script for orchestration
+This project will be further enhanced. One of the first features will be using Airflow instead of sole python script for orchestration and also further completing PowerBI dashboard.
 Thank you for taking time to review the project.
  you have any enhancement comments, or any general inquiries about the project please don't hesitate to contact.
